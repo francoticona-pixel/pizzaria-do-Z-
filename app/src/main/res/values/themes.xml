@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CAROL_PIZZA" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Cores primárias do projeto -->
+        <item name="colorPrimary">@color/pizzaria_red</item>
+        <item name="colorPrimaryDark">@color/pizzaria_red</item>
+        <item name="colorAccent">@color/pizzaria_green</item>
+    </style>
+
+    <style name="Theme.CAROL_PIZZA" parent="Base.Theme.CAROL_PIZZA" />
+</resources>
